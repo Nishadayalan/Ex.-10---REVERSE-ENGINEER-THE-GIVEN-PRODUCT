@@ -35,7 +35,8 @@
 
 
 ### Output:
-![image](https://github.com/Priyangarajapandiyan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144872535/149dbd29-43bf-4df3-8864-fa9fe3c3d8cd)
+![image](https://github.com/user-attachments/assets/81a2f60e-5976-4771-b555-2fbbef100ea2)
+
 
 
 ### Name: Nisha D
